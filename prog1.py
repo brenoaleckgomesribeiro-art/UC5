@@ -19,3 +19,4 @@ match o:
         o=0
         print("Opeção inválida")
 print(f"O resultado da operação é {o}")
+print("teste de comit")
