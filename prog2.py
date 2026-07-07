@@ -7,3 +7,5 @@ elif n2 > n1:
     print(f"O maior número é {n2}")
 else:
     print("Os dois números são iguais.")
+print("Teste de PULL")
+print("teste de psuh pelo vscode")
