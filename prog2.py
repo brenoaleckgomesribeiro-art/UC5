@@ -6,4 +6,5 @@ if n1 > n2:
 elif n2 > n1:
     print(f"O maior número é {n2}")
 else:
-    print("Os dois números são iguais.")
+    print("Os dois números são iguais."
+print("test the pull"
